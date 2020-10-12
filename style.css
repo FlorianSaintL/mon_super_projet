@@ -1,7 +1,11 @@
-/* Créer une div supplémentaire puis mettre un <p> à l'intérieur */
-/* A l'intérieur du <p>, faites un lorem15 */
-/* Une fois que vous avez effectué les modifications, créez une */
-/* nouvelle version */
+/* Vérifiez que vous êtes bien positionné sur le Master */
+/* 1. Dans le fichier index.html, dans la partie Description, ajouter
+    un <h1>Ma description</h1> 
+    2. Dupliquez cette div puis remplacez par (Titre = "Mes récompenses")
+    + <p>en construction...</p>
+    3. Créer une nouvelle version
+    4. Posez un tag sur cette nouvelle version
+*/
 
 
 #top-banner {
